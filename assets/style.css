@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i");
+
+body{
+    background-color: #FFCA28;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  text-decoration: none;
+  
+}
+.jumbotron{
+    background-color: #B0BEC5;
+}
+#about, #info, #objetivo,#estudio{
+    background-color: #ffff;
+}
+.titulo{
+    text-align: center;
+}
+.img {
+    width: 150px;
+    height: 170px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    display: block;
+    border-radius: 100px;
+}
+
+p{
+    text-align: justify;
+    padding: 10px;
+}
