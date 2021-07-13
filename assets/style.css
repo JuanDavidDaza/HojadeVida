@@ -15,7 +15,7 @@ body{
 .jumbotron{
     background-color: #B0BEC5;
 }
-#about, #info, #objetivo,#estudio{
+#about, #info, #objetivo,#estudio,#experiencia{
     background-color: #ffff;
 }
 .titulo{
@@ -32,5 +32,5 @@ body{
 
 p{
     text-align: justify;
-    padding: 10px;
+    padding: 9px;
 }
